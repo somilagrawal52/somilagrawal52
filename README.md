@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Somil
 
 ## 🚀 About Me
-- 🎓 3rd Year CSE Student @ VIT Bhopal  
-- 💡 Passionate about Web Development & Data Science  
+- 🎓 4th Year BTech CSE Student @ VIT Bhopal  
+- 💡 Passionate about Web Development & ML  
 - 🔭 Currently building **OneLife** — A hospital management platform  
-- ⚡ Fun fact: I love exploring sports & AI-driven projects  
+- ⚡ Fun fact: I love exploring new tech & web-related projects  
 
 ---
 
@@ -22,8 +22,10 @@ It provides **appointment scheduling, patient record management, and online cons
 - 👩‍⚕️ Patient management  
 - 📅 Online appointment booking  
 - 💬 Video consultation requests  
-- 🏥 Doctor & admin dashboards  
-- 🔒 Secure authentication  
+- 🏥 Patient,Doctor & admin dashboards  
+- 🔒 Secure authentication
+- 📅 WebScraping
+- 💬 Gemini API
 
 👉 [View Repository](https://github.com/somilagrawal52/hospital-management)  
 👉 [Live Demo](https://onelife-auxo.onrender.com/) 
