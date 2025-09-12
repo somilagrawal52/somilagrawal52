@@ -25,8 +25,8 @@ It provides **appointment scheduling, patient record management, and online cons
 - 🏥 Doctor & admin dashboards  
 - 🔒 Secure authentication  
 
-👉 [View Repository](https://github.com/somil-agrawal/OneLife)  
-👉 [Live Demo](https://onelife-demo.vercel.app) _(if hosted)_  
+👉 [View Repository](https://github.com/somilagrawal52/hospital-management)  
+👉 [Live Demo](https://onelife-auxo.onrender.com/) 
 
 ---
 
@@ -49,5 +49,4 @@ It provides **appointment scheduling, patient record management, and online cons
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://http://linkedin.com/in/somil-agrawal-28a707250)  
