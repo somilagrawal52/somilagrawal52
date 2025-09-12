@@ -44,9 +44,9 @@ It provides **appointment scheduling, patient record management, and online cons
 ---
 
 ## 📊 GitHub Stats
-![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=somil-agrawal&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somil-agrawal&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=somil-agrawal&theme=radical&hide_border=true)  
+![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=somilagrawal52&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somilagrawal52&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=somilagrawal52&theme=radical&hide_border=true)  
 
 ---
 
