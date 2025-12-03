@@ -51,4 +51,4 @@ It provides **appointment scheduling, patient record management, and online cons
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://http://linkedin.com/in/somil-agrawal-28a707250)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-agrawal-28a707250)  
