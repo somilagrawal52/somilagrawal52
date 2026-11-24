@@ -38,12 +38,30 @@ I'm **Somil**, a B.Tech Computer Science student at **VIT Bhopal**. I build acro
 
 <p align="center">
   <a href="https://github.com/somilagrawal52/BugSnap"><img src="./assets/bugsnap.svg" width="400" alt="BugSnap — Embeddable bug reporting, engineering dashboard, and GitHub issue integration. Next.js, TypeScript, and Supabase." /></a>
-  <a href="https://github.com/somilagrawal52/AI-code-review"><img src="./assets/codesage.svg" width="400" alt="CodeSage AI — Structured pull-request reviews and transparent code-health scoring. Next.js, FastAPI, and OpenAI." /></a>
-  <a href="https://github.com/somilagrawal52/PG-Manager"><img src="./assets/staymanage.svg" width="400" alt="StayManage — Rooms, residents, rent records, and maintenance for PG and hostel operations. Next.js, TypeScript, and MongoDB." /></a>
-  <a href="https://github.com/somilagrawal52/Repair-Desk"><img src="./assets/repairdesk.svg" width="400" alt="RepairDesk — Device intake, repair tickets, inventory, and billing. Next.js, MongoDB, and Tailwind CSS." /></a>
+  <a href="https://github.com/somilagrawal52/AI-code-review"><img src="./assets/codesage.svg" width="400" alt="CodeSage AI — AI code review MVP with explainable scoring and a credential-free demo. Live GitHub integration remains a work in progress. Next.js, FastAPI, and OpenAI." /></a>
+  <a href="https://github.com/somilagrawal52/skill-swap"><img src="./assets/skillswap.svg" width="400" alt="SkillSwap — Reciprocal skill matching, proposals, exchanges, and reviews. React, Express, and MongoDB." /></a>
+  <a href="https://github.com/somilagrawal52/emitrr-backend-project"><img src="./assets/connectfour.svg" width="400" alt="Connect Four — Real-time multiplayer, matchmaking, bot fallback, reconnect handling, and Kafka event publishing. Node.js and Socket.IO." /></a>
 </p>
 
-**Also built** &nbsp; [Chat App](https://github.com/somilagrawal52/Chat-APP) — real-time messaging &nbsp;·&nbsp; [DriveLuxe](https://github.com/somilagrawal52/Car-Rental-App) — vehicle booking
+### Behind the interface
+
+- **[BugSnap](https://github.com/somilagrawal52/BugSnap):** PostgreSQL tenant isolation, private attachments, and an embeddable widget. [Verification notes and remaining limits ↗](https://github.com/somilagrawal52/BugSnap/blob/main/docs/verification.md)
+- **[OneLife](https://github.com/somilagrawal52/hospital-management):** Scheduling rules, payment signature verification, and CSRF protection. [Explore the checks ↗](https://github.com/somilagrawal52/hospital-management/tree/master/backend/test)
+- **[CodeSage AI](https://github.com/somilagrawal52/AI-code-review):** Application-owned scoring and diff filtering, with a credential-free demo. [MVP scope and setup ↗](https://github.com/somilagrawal52/AI-code-review#local-setup)
+
+<details>
+<summary><strong>More projects & explorations</strong></summary>
+<br />
+
+| Project | Focus |
+| :--- | :--- |
+| [StayManage](https://github.com/somilagrawal52/PG-Manager) | PG and hostel operations prototype: rooms, residents, rent records, and maintenance. |
+| [RepairDesk](https://github.com/somilagrawal52/Repair-Desk) | Repair workflow prototype: device intake, tickets, inventory, and billing. |
+| [Chat App](https://github.com/somilagrawal52/Chat-APP) | Direct messaging, live presence, persistent conversations, and media sharing. |
+| [DriveLuxe](https://github.com/somilagrawal52/Car-Rental-App) | Vehicle discovery and date-based booking. |
+| [Clinical Risk Screening](https://github.com/somilagrawal52/disease-detection) | Educational Python and FastAPI experiment in ML-assisted screening. |
+
+</details>
 
 <p align="right"><a href="https://github.com/somilagrawal52?tab=repositories">Explore all repositories →</a></p>
 

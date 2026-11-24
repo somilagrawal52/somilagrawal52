@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="596" height="314" viewBox="0 0 596 314" role="img" aria-labelledby="title desc"><title id="title">Connect Four — real-time systems</title><desc id="desc">Matchmaking, moves, reconnects. Real-time play with event hooks. Built with node.js · socket.io · kafka.</desc><g transform="translate(8 8)">
+    <rect x="1" y="1" width="578" height="296" rx="22" fill="#101b21" stroke="#30434a" stroke-width="2"/>
+    <path d="M350 1H558Q579 1 579 22V170C483 163 382 118 350 1Z" fill="#a9d9f3" fill-opacity=".055"/>
+    <text x="29" y="38" font-family="Consolas,'Courier New',monospace" font-size="11" fill="#a9d9f3" letter-spacing="2">05 / REAL-TIME SYSTEMS</text>
+    <rect x="481" y="24" width="69" height="69" rx="19" fill="#a9d9f3" fill-opacity=".11" stroke="#a9d9f3" stroke-opacity=".28"/>
+    <text x="515" y="70" font-family="'Segoe UI',Arial,sans-serif" font-size="34" fill="#a9d9f3" text-anchor="middle" font-weight="600">●</text>
+    <text x="27" y="114" font-family="'Segoe UI',Arial,sans-serif" font-size="45" fill="#eff5f3" font-weight="700" letter-spacing="-1.6">Connect Four</text>
+    <text x="29" y="157" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#c4d1d2" >Matchmaking, moves, reconnects.</text>
+    <text x="29" y="187" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#c4d1d2" >Real-time play with event hooks.</text>
+    <path d="M29 224H551" stroke="#30434a"/>
+    <text x="29" y="263" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#a9d9f3" letter-spacing=".5">NODE.JS · SOCKET.IO · KAFKA</text>
+    <text x="526" y="265" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#a9d9f3" >↗</text>
+    </g>
+  </svg>

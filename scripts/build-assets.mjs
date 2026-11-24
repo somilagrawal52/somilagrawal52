@@ -105,9 +105,9 @@ svg("onelife-mobile", 600, 350, `
 
 const projects = [
   { file: "bugsnap", title: "BugSnap", no: "02", kind: "DEVELOPER TOOLS", lines: ["Bug reports with context.", "From widget to GitHub issue."], stack: "NEXT.JS · TYPESCRIPT · SUPABASE", color: "#c5c1ff", symbol: "✳" },
-  { file: "codesage", title: "CodeSage AI", no: "03", kind: "APPLIED AI", lines: ["Structured pull-request reviews.", "Transparent code-health scoring."], stack: "NEXT.JS · FASTAPI · OPENAI", color: "#f2d098", symbol: "{ }" },
-  { file: "staymanage", title: "StayManage", no: "04", kind: "BUSINESS SOFTWARE", lines: ["Rooms, residents, and rent.", "One workspace for PG operations."], stack: "NEXT.JS · TYPESCRIPT · MONGODB", color: "#b9f6d2", symbol: "▥" },
-  { file: "repairdesk", title: "RepairDesk", no: "05", kind: "BUSINESS SOFTWARE", lines: ["Device intake to repair billing.", "Keep every ticket moving."], stack: "NEXT.JS · MONGODB · TAILWIND", color: "#a9d9f3", symbol: "+" },
+  { file: "codesage", title: "CodeSage AI", no: "03", kind: "APPLIED AI / MVP", lines: ["A code review workspace.", "Explainable scores. Demo mode."], stack: "NEXT.JS · FASTAPI · OPENAI", color: "#f2d098", symbol: "{ }" },
+  { file: "skillswap", title: "SkillSwap", no: "04", kind: "FULL-STACK MARKETPLACE", lines: ["Reciprocal skills, useful matches.", "Proposals, exchanges, and reviews."], stack: "REACT · EXPRESS · MONGODB", color: "#b9f6d2", symbol: "⇄" },
+  { file: "connectfour", title: "Connect Four", no: "05", kind: "REAL-TIME SYSTEMS", lines: ["Matchmaking, moves, reconnects.", "Real-time play with event hooks."], stack: "NODE.JS · SOCKET.IO · KAFKA", color: "#a9d9f3", symbol: "●" },
 ];
 for (const project of projects) {
   svg(project.file, 596, 314, `<g transform="translate(8 8)">
