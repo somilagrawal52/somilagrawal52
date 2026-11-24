@@ -1,54 +1,68 @@
-# Hi there 👋 I'm Somil
+<div align="center">
 
-## 🚀 About Me
-- 🎓 4th Year BTech CSE Student @ VIT Bhopal  
-- 💡 Passionate about Web Development & ML  
-- 🔭 Currently building **OneLife** — A hospital management platform  
-- ⚡ Fun fact: I love exploring new tech & web-related projects  
+# Somil Agrawal
 
----
+### Full-Stack Software Engineer · Web Applications · Applied AI
 
-## 🏥 Featured Project — OneLife
-**OneLife** is a modern **hospital management platform** designed to simplify healthcare workflows.  
-It provides **appointment scheduling, patient record management, and online consultation features**.  
+Building thoughtful interfaces, dependable APIs, and software that solves practical problems.
 
-🔹 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript (EJS templates)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Hosting:** Render  
+[Portfolio](https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/somil-agrawal-28a707250/) &nbsp;·&nbsp;
+[Email](mailto:somilagrawal2004@gmail.com)
 
-🔹 **Key Features:**  
-- 👩‍⚕️ Patient management  
-- 📅 Online appointment booking  
-- 💬 Video consultation requests  
-- 🏥 Patient,Doctor & admin dashboards  
-- 🔒 Secure authentication
-- 📅 WebScraping
-- 💬 Gemini API
-
-👉 [View Repository](https://github.com/somilagrawal52/hospital-management)  
-👉 [Live Demo](https://onelife-auxo.onrender.com/) 
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+## About me
 
----
+I'm a B.Tech Computer Science student at **VIT Bhopal**, focused on full-stack web development, real-time systems, and applied AI.
 
-## 📊 GitHub Stats
-![Somil's GitHub stats](https://github-readme-stats.vercel.app/api?username=somilagrawal52&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somilagrawal52&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=somilagrawal52&theme=radical&hide_border=true)  
+- **Previously:** Software Engineering Intern at **Birlasoft**, working on REST APIs, real-time messaging, and backend optimization.
+- **Building:** Healthcare workflows with **OneLife**, developer tooling with **BugSnap** and **CodeSage AI**, and business management applications.
+- **Engineering interests:** API design, authentication, data modeling, testing, and responsive user experiences.
+- **Problem solving:** 700+ DSA problems solved and a completed 100-day coding challenge.
 
----
+## Featured project: OneLife
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-agrawal-28a707250)  
+**OneLife** is a hospital management platform that brings patient, doctor, and administrator workflows together.
+
+- Appointment discovery, booking, and clinician scheduling
+- Patient records and separate dashboards for each role
+- Video consultation requests and real-time updates
+- Gemini-powered chatbot and triage workflows
+- Authentication, role-based access, and web scraping integrations
+
+**Stack:** EJS · HTML/CSS · JavaScript · Node.js · Express · MongoDB · WebSockets · Gemini API
+
+[Explore the source](https://github.com/somilagrawal52/hospital-management) · [Project overview](https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/work/onelife/)
+
+## Selected projects
+
+| Project | What it does | Core stack |
+| :--- | :--- | :--- |
+| **[BugSnap](https://github.com/somilagrawal52/BugSnap)** | Embeddable bug reporting widget, engineering dashboard, and GitHub issue integration. | Next.js · TypeScript · Supabase · PostgreSQL |
+| **[CodeSage AI](https://github.com/somilagrawal52/AI-code-review)** | Structured AI pull-request reviews with specialist feedback and transparent code-health scoring. | Next.js · Python · FastAPI · OpenAI · SQLAlchemy |
+| **[StayManage](https://github.com/somilagrawal52/PG-Manager)** | PG and hostel management covering rooms, residents, rent records, and maintenance. | Next.js · TypeScript · MongoDB · Mongoose |
+| **[RepairDesk](https://github.com/somilagrawal52/Repair-Desk)** | Repair shop workflows for device intake, repair tickets, inventory, and billing. | Next.js · TypeScript · MongoDB · Tailwind CSS |
+| **[Chat App](https://github.com/somilagrawal52/Chat-APP)** | Authenticated messaging with persistent conversations, live presence, and media sharing. | React · Node.js · Socket.IO · MongoDB |
+| **[DriveLuxe](https://github.com/somilagrawal52/Car-Rental-App)** | Vehicle discovery, date-based reservations, and fleet management. | React · Redux Toolkit · Express · MongoDB |
+
+[View more repositories →](https://github.com/somilagrawal52?tab=repositories)
+
+## Technical toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Python, C++, C, SQL |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS, EJS, Redux Toolkit, Vite |
+| **Backend & real-time** | Node.js, Express, FastAPI, REST APIs, Socket.IO, Kafka, JWT authentication |
+| **Data** | MongoDB, PostgreSQL, MySQL, Supabase, Mongoose, Prisma, SQLAlchemy |
+| **AI & automation** | Gemini API, OpenAI API, scikit-learn, web scraping |
+| **Tools & delivery** | Git, GitHub, Docker, AWS, Render, CI/CD, Vitest, pytest |
+
+## Let's connect
+
+I'm interested in full-stack software engineering opportunities and collaborating on useful web products.
+
+**[Explore my portfolio](https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/somil-agrawal-28a707250/)** · **[Get in touch](mailto:somilagrawal2004@gmail.com)**
