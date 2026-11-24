@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://portfolio-gamma-seven-ks3qysfshx.vercel.app/"><img src="./assets/portfolio.svg" height="42" alt="Explore portfolio" /></a>
-  &nbsp;f
+  &nbsp;
   <a href="https://www.linkedin.com/in/somil-agrawal-28a707250/"><img src="./assets/linkedin.svg" height="42" alt="Connect on LinkedIn" /></a>
   &nbsp;
   <a href="mailto:somilagrawal2004@gmail.com"><img src="./assets/email.svg" height="42" alt="Get in touch by email" /></a>
