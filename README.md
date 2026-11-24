@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/"><img src="./assets/portfolio.svg" height="42" alt="Explore portfolio" /></a>
-  &nbsp;
+  <a href="https://portfolio-gamma-seven-ks3qysfshx.vercel.app/"><img src="./assets/portfolio.svg" height="42" alt="Explore portfolio" /></a>
+  &nbsp;f
   <a href="https://www.linkedin.com/in/somil-agrawal-28a707250/"><img src="./assets/linkedin.svg" height="42" alt="Connect on LinkedIn" /></a>
   &nbsp;
   <a href="mailto:somilagrawal2004@gmail.com"><img src="./assets/email.svg" height="42" alt="Get in touch by email" /></a>
@@ -34,7 +34,7 @@ I'm **Somil**, a B.Tech Computer Science student at **VIT Bhopal**. I build acro
   </picture>
 </a>
 
-<p align="right"><a href="https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/work/onelife/">Read the OneLife case study ↗</a></p>
+<p align="right"><a href="https://portfolio-gamma-seven-ks3qysfshx.vercel.app/">Read the OneLife case study ↗</a></p>
 
 <p align="center">
   <a href="https://github.com/somilagrawal52/BugSnap"><img src="./assets/bugsnap.svg" width="400" alt="BugSnap — Embeddable bug reporting, engineering dashboard, and GitHub issue integration. Next.js, TypeScript, and Supabase." /></a>
