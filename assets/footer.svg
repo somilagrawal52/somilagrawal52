@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="154" viewBox="0 0 1200 154" role="img" aria-labelledby="title desc"><title id="title">Let's build something useful</title><desc id="desc">Good software starts with a conversation. Contact Somil Agrawal by email.</desc>
+  <rect x="1" y="1" width="1198" height="152" rx="22" fill="#101b21" stroke="#30434a" stroke-width="2"/>
+  <circle cx="51" cy="46" r="5" fill="#b9f6d2"/>
+  <text x="68" y="51" font-family="Consolas,'Courier New',monospace" font-size="13" fill="#b9f6d2" letter-spacing="2">LET'S BUILD SOMETHING USEFUL</text>
+  <text x="43" y="111" font-family="'Segoe UI',Arial,sans-serif" font-size="33" fill="#eff5f3" font-weight="600" letter-spacing="-.5">Good software starts with a conversation.</text>
+  <path d="M1110 60L1146 96M1111 96H1146V61" fill="none" stroke="#b9f6d2" stroke-width="3"/>
+</svg>

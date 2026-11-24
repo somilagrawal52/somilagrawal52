@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" viewBox="0 0 600 350" role="img" aria-labelledby="title desc"><title id="title">OneLife — Healthcare platform</title><desc id="desc">Booking, schedules, consultations, and AI triage. Node.js, Express, EJS, MongoDB, and Gemini.</desc>
+  <rect x="1" y="1" width="598" height="348" rx="22" fill="#101b21" stroke="#30434a" stroke-width="2"/>
+  <rect x="482" y="29" width="84" height="84" rx="22" fill="#254a3e"/>
+  <path d="M507 71H541M524 54V88" fill="none" stroke="#b9f6d2" stroke-width="5" stroke-linecap="round"/>
+  <text x="31" y="53" font-family="Consolas,'Courier New',monospace" font-size="14" fill="#b9f6d2" letter-spacing="2">FEATURED / 01</text>
+  <text x="29" y="137" font-family="'Segoe UI',Arial,sans-serif" font-size="64" fill="#eff5f3" font-weight="700" letter-spacing="-2">OneLife</text>
+  <text x="32" y="190" font-family="'Segoe UI',Arial,sans-serif" font-size="30" fill="#eff5f3" >Care workflows, connected.</text>
+  <text x="32" y="230" font-family="'Segoe UI',Arial,sans-serif" font-size="24" fill="#a6b8bd" >Booking, schedules, and consultations.</text>
+  <path d="M32 264H567" stroke="#30434a"/>
+  <text x="32" y="307" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#b9f6d2" >NODE.JS / MONGODB / GEMINI</text>
+  <text x="535" y="309" font-family="'Segoe UI',Arial,sans-serif" font-size="27" fill="#b9f6d2" >↗</text>
+</svg>

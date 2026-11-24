@@ -1,68 +1,105 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+    <img src="./assets/header.svg" width="100%" alt="Somil Agrawal — Full-stack software engineer. Thoughtful interfaces. Dependable systems." />
+  </picture>
+</p>
 
-# Somil Agrawal
+<p align="center">
+  <a href="https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/"><img src="./assets/portfolio.svg" height="42" alt="Explore portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/somil-agrawal-28a707250/"><img src="./assets/linkedin.svg" height="42" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:somilagrawal2004@gmail.com"><img src="./assets/email.svg" height="42" alt="Get in touch by email" /></a>
+</p>
 
-### Full-Stack Software Engineer · Web Applications · Applied AI
+<br />
 
-Building thoughtful interfaces, dependable APIs, and software that solves practical problems.
+## A little about me
 
-[Portfolio](https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/somil-agrawal-28a707250/) &nbsp;·&nbsp;
-[Email](mailto:somilagrawal2004@gmail.com)
+I'm **Somil**, a B.Tech Computer Science student at **VIT Bhopal**. I build across the stack: from responsive interfaces and APIs to data models, real-time flows, and useful AI integrations.
 
-</div>
+**Previously at Birlasoft** → REST APIs, real-time messaging, and backend optimization.<br />
+**Currently building** → OneLife, developer tools, and business management applications.<br />
+**Outside the build** → 700+ DSA problems solved and a completed 100-day coding challenge.
 
----
+<br />
 
-## About me
+## Work, in focus
 
-I'm a B.Tech Computer Science student at **VIT Bhopal**, focused on full-stack web development, real-time systems, and applied AI.
+<a href="https://github.com/somilagrawal52/hospital-management">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/onelife-mobile.svg" />
+    <img src="./assets/onelife.svg" width="100%" alt="OneLife — Hospital management with appointment booking, clinician schedules, consultation requests, and Gemini AI. Node.js, Express, EJS, MongoDB, and Gemini." />
+  </picture>
+</a>
 
-- **Previously:** Software Engineering Intern at **Birlasoft**, working on REST APIs, real-time messaging, and backend optimization.
-- **Building:** Healthcare workflows with **OneLife**, developer tooling with **BugSnap** and **CodeSage AI**, and business management applications.
-- **Engineering interests:** API design, authentication, data modeling, testing, and responsive user experiences.
-- **Problem solving:** 700+ DSA problems solved and a completed 100-day coding challenge.
+<p align="right"><a href="https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/work/onelife/">Read the OneLife case study ↗</a></p>
 
-## Featured project: OneLife
+<p align="center">
+  <a href="https://github.com/somilagrawal52/BugSnap"><img src="./assets/bugsnap.svg" width="400" alt="BugSnap — Embeddable bug reporting, engineering dashboard, and GitHub issue integration. Next.js, TypeScript, and Supabase." /></a>
+  <a href="https://github.com/somilagrawal52/AI-code-review"><img src="./assets/codesage.svg" width="400" alt="CodeSage AI — Structured pull-request reviews and transparent code-health scoring. Next.js, FastAPI, and OpenAI." /></a>
+  <a href="https://github.com/somilagrawal52/PG-Manager"><img src="./assets/staymanage.svg" width="400" alt="StayManage — Rooms, residents, rent records, and maintenance for PG and hostel operations. Next.js, TypeScript, and MongoDB." /></a>
+  <a href="https://github.com/somilagrawal52/Repair-Desk"><img src="./assets/repairdesk.svg" width="400" alt="RepairDesk — Device intake, repair tickets, inventory, and billing. Next.js, MongoDB, and Tailwind CSS." /></a>
+</p>
 
-**OneLife** is a hospital management platform that brings patient, doctor, and administrator workflows together.
+**Also built** &nbsp; [Chat App](https://github.com/somilagrawal52/Chat-APP) — real-time messaging &nbsp;·&nbsp; [DriveLuxe](https://github.com/somilagrawal52/Car-Rental-App) — vehicle booking
 
-- Appointment discovery, booking, and clinician scheduling
-- Patient records and separate dashboards for each role
-- Video consultation requests and real-time updates
-- Gemini-powered chatbot and triage workflows
-- Authentication, role-based access, and web scraping integrations
+<p align="right"><a href="https://github.com/somilagrawal52?tab=repositories">Explore all repositories →</a></p>
 
-**Stack:** EJS · HTML/CSS · JavaScript · Node.js · Express · MongoDB · WebSockets · Gemini API
+<br />
 
-[Explore the source](https://github.com/somilagrawal52/hospital-management) · [Project overview](https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/work/onelife/)
+## The toolkit
 
-## Selected projects
+**Interfaces**
 
-| Project | What it does | Core stack |
-| :--- | :--- | :--- |
-| **[BugSnap](https://github.com/somilagrawal52/BugSnap)** | Embeddable bug reporting widget, engineering dashboard, and GitHub issue integration. | Next.js · TypeScript · Supabase · PostgreSQL |
-| **[CodeSage AI](https://github.com/somilagrawal52/AI-code-review)** | Structured AI pull-request reviews with specialist feedback and transparent code-health scoring. | Next.js · Python · FastAPI · OpenAI · SQLAlchemy |
-| **[StayManage](https://github.com/somilagrawal52/PG-Manager)** | PG and hostel management covering rooms, residents, rent records, and maintenance. | Next.js · TypeScript · MongoDB · Mongoose |
-| **[RepairDesk](https://github.com/somilagrawal52/Repair-Desk)** | Repair shop workflows for device intake, repair tickets, inventory, and billing. | Next.js · TypeScript · MongoDB · Tailwind CSS |
-| **[Chat App](https://github.com/somilagrawal52/Chat-APP)** | Authenticated messaging with persistent conversations, live presence, and media sharing. | React · Node.js · Socket.IO · MongoDB |
-| **[DriveLuxe](https://github.com/somilagrawal52/Car-Rental-App)** | Vehicle discovery, date-based reservations, and fleet management. | React · Redux Toolkit · Express · MongoDB |
+<p>
+  <img src="./assets/tech-typescript.svg" height="34" alt="TypeScript" />
+  <img src="./assets/tech-javascript.svg" height="34" alt="JavaScript" />
+  <img src="./assets/tech-react.svg" height="34" alt="React" />
+  <img src="./assets/tech-nextjs.svg" height="34" alt="Next.js" />
+  <img src="./assets/tech-tailwind.svg" height="34" alt="Tailwind CSS" />
+</p>
 
-[View more repositories →](https://github.com/somilagrawal52?tab=repositories)
+**APIs & real-time**
 
-## Technical toolkit
+<p>
+  <img src="./assets/tech-nodejs.svg" height="34" alt="Node.js" />
+  <img src="./assets/tech-express.svg" height="34" alt="Express" />
+  <img src="./assets/tech-python.svg" height="34" alt="Python" />
+  <img src="./assets/tech-fastapi.svg" height="34" alt="FastAPI" />
+  <img src="./assets/tech-socketio.svg" height="34" alt="Socket.IO" />
+</p>
 
-| Area | Technologies |
+**Data, AI & delivery**
+
+<p>
+  <img src="./assets/tech-mongodb.svg" height="34" alt="MongoDB" />
+  <img src="./assets/tech-postgresql.svg" height="34" alt="PostgreSQL" />
+  <img src="./assets/tech-supabase.svg" height="34" alt="Supabase" />
+  <img src="./assets/tech-gemini.svg" height="34" alt="Gemini API" />
+  <img src="./assets/tech-openai.svg" height="34" alt="OpenAI API" />
+  <img src="./assets/tech-docker.svg" height="34" alt="Docker" />
+  <img src="./assets/tech-git.svg" height="34" alt="Git" />
+</p>
+
+<details>
+<summary><strong>More of the stack</strong></summary>
+<br />
+
+| Area | Additional experience |
 | :--- | :--- |
-| **Languages** | JavaScript, TypeScript, Python, C++, C, SQL |
-| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS, EJS, Redux Toolkit, Vite |
-| **Backend & real-time** | Node.js, Express, FastAPI, REST APIs, Socket.IO, Kafka, JWT authentication |
-| **Data** | MongoDB, PostgreSQL, MySQL, Supabase, Mongoose, Prisma, SQLAlchemy |
-| **AI & automation** | Gemini API, OpenAI API, scikit-learn, web scraping |
-| **Tools & delivery** | Git, GitHub, Docker, AWS, Render, CI/CD, Vitest, pytest |
+| Languages & frontend | C, C++, SQL, HTML, CSS, EJS, Redux Toolkit, Vite |
+| Backend & data | JWT authentication, Kafka, MySQL, Mongoose, Prisma, SQLAlchemy |
+| AI & automation | scikit-learn, web scraping |
+| Testing & delivery | Vitest, pytest, AWS, Render, CI/CD |
 
-## Let's connect
+</details>
 
-I'm interested in full-stack software engineering opportunities and collaborating on useful web products.
+<br />
 
-**[Explore my portfolio](https://somil-agrawal-portfolio.coolcarol2.chatgpt.site/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/somil-agrawal-28a707250/)** · **[Get in touch](mailto:somilagrawal2004@gmail.com)**
+<a href="mailto:somilagrawal2004@gmail.com">
+  <img src="./assets/footer.svg" width="100%" alt="Let's build something useful. Good software starts with a conversation. Email Somil Agrawal." />
+</a>
+
+<p align="center"><sub>Open to full-stack engineering opportunities and thoughtful collaborations.</sub></p>

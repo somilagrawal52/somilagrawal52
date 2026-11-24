@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-labelledby="title desc"><title id="title">Somil Agrawal — Full-stack engineer</title><desc id="desc">Thoughtful interfaces. Dependable systems. Web, real-time, and applied AI.</desc>
+  <rect x="1" y="1" width="598" height="378" rx="22" fill="#101b21" stroke="#30434a" stroke-width="2"/>
+  <rect x="32" y="31" width="42" height="34" rx="8" fill="#b9f6d2"/>
+  <text x="39" y="55" font-family="'Segoe UI',Arial,sans-serif" font-size="21" fill="#101b21" font-weight="700">S/</text>
+  <text x="91" y="54" font-family="Consolas,'Courier New',monospace" font-size="14" fill="#b9f6d2" letter-spacing="2">FULL-STACK ENGINEER</text>
+  <text x="29" y="142" font-family="'Segoe UI',Arial,sans-serif" font-size="60" fill="#eff5f3" font-weight="700" letter-spacing="-2.5">Somil Agrawal.</text>
+  <text x="32" y="211" font-family="'Segoe UI',Arial,sans-serif" font-size="32" fill="#eff5f3" >Thoughtful interfaces.</text>
+  <text x="32" y="257" font-family="'Segoe UI',Arial,sans-serif" font-size="32" fill="#b9f6d2" >Dependable systems.</text>
+  <path d="M32 299H567" stroke="#30434a"/>
+  <text x="32" y="342" font-family="Consolas,'Courier New',monospace" font-size="14" fill="#a6b8bd" letter-spacing="2">WEB / REAL-TIME / APPLIED AI</text>
+</svg>

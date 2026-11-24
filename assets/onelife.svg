@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc"><title id="title">OneLife — Healthcare platform</title><desc id="desc">Hospital management with appointment booking, clinician schedules, consultation requests, and Gemini AI. Node.js, Express, EJS, MongoDB, and Gemini.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#cce4d9" fill-opacity=".1"/></pattern></defs>
+  <rect x="1" y="1" width="1198" height="328" rx="22" fill="#101b21" stroke="#30434a" stroke-width="2"/>
+  <path d="M798 1H1178Q1199 1 1199 22V308Q1199 329 1178 329H798Z" fill="#173a35"/>
+  <path d="M798 1H1178Q1199 1 1199 22V308Q1199 329 1178 329H798Z" fill="url(#dots)"/>
+  <text x="42" y="48" font-family="Consolas,'Courier New',monospace" font-size="14" fill="#b9f6d2" letter-spacing="2">FEATURED BUILD / 01</text>
+  <text x="40" y="126" font-family="'Segoe UI',Arial,sans-serif" font-size="66" fill="#eff5f3" font-weight="700" letter-spacing="-2.5">OneLife</text>
+  <text x="43" y="170" font-family="'Segoe UI',Arial,sans-serif" font-size="28" fill="#d7e6e2" >Care workflows, connected.</text>
+  <text x="43" y="210" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#a6b8bd" >Booking · Clinician schedules · Consultation requests</text>
+  <path d="M43 243H735" stroke="#30464b"/>
+  <text x="43" y="280" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#b9f6d2" >Node.js / Express / EJS / MongoDB / Gemini</text>
+  <g transform="translate(871 58)">
+    <rect width="241" height="202" rx="16" fill="#edf5ee"/>
+    <circle cx="27" cy="27" r="6" fill="#5e9a77"/>
+    <text x="42" y="33" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#446b57" font-weight="700" letter-spacing="1">PATIENT JOURNEY</text>
+    <path d="M27 69V154" stroke="#b7c9b9" stroke-width="2"/>
+    <circle cx="27" cy="70" r="5" fill="#609b76"/><circle cx="27" cy="112" r="5" fill="#609b76"/><circle cx="27" cy="154" r="5" fill="#c2d0c2"/>
+    <text x="43" y="75" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#173e2d" >Find a clinician</text>
+    <text x="43" y="117" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#173e2d" >Book a visit</text>
+    <text x="43" y="159" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#173e2d" >Stay connected</text>
+  </g>
+  <text x="903" y="296" font-family="Consolas,'Courier New',monospace" font-size="12" fill="#b9f6d2" letter-spacing="2">EXPLORE SOURCE ↗</text>
+</svg>
